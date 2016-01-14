@@ -1,0 +1,14 @@
+layout_spectrum: 0.9229391
+color:
+  saturation: 0.3837345
+  brandStrength: 0.6898437
+  lightness: 0.7821058
+  rhythmicContrast: 0.6057348
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.5053763
+name: aquanetviet
