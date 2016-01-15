@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Mạng Thuỷ sản Việt Nam]]></title>
         <description><![CDATA[Mạng Thuỷ sản Việt Nam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aquanetviet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 02:57:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 03:06:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aquanetviet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9292a003-cd07-4431-af6d-4a26d6ed028d.jpg">]]></description>
-            <link>undefined453f6236-58ad-41d9-8fb2-74d9390644bd/index.html</link>
+            <link>https://thegrid.ai/aquanetviet/453f6236-58ad-41d9-8fb2-74d9390644bd/index.html</link>
             <guid isPermaLink="false">453f6236-58ad-41d9-8fb2-74d9390644bd</guid>
             <pubDate>Fri, 15 Jan 2016 02:57:29 GMT</pubDate>
         </item>
