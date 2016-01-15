@@ -1,14 +1,29 @@
+name: aquanetviet
+favicon: null
 layout_spectrum: 0.9229391
+typography_spectrum: 0.5053763
+title: Mạng Thuỷ sản Việt Nam
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3837345
-  brandStrength: 0.6898437
-  lightness: 0.7821058
-  rhythmicContrast: 0.6057348
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-typography_spectrum: 0.5053763
-name: aquanetviet
+  brandStrength: 0.6898437
+  lightness: 0.7821058
+  saturation: 0.3837345
+  rhythmicContrast: 0.6057348
+purpose: []
