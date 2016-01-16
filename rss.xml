@@ -4,8 +4,15 @@
         <description><![CDATA[Mạng Thủy sản Việt Nam]]></description>
         <link>https://thegrid.ai/aquanetviet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 10:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 10:54:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aquanetviet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a21d6906-9566-4660-8e66-c19acea8e67d.jpg">]]></description>
+            <link>https://thegrid.ai/aquanetviet/e111c1ef-412b-47b3-af39-f7abef66ca55/index.html</link>
+            <guid isPermaLink="false">e111c1ef-412b-47b3-af39-f7abef66ca55</guid>
+            <pubDate>Sat, 16 Jan 2016 10:54:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df7f48d6-ab0e-4831-b288-a1854b919724.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/aquanetviet/2aadf947-92e8-4d2f-bb94-ba4387ed380f/index.html</link>
             <guid isPermaLink="false">2aadf947-92e8-4d2f-bb94-ba4387ed380f</guid>
             <pubDate>Sat, 16 Jan 2016 07:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3323ad0-c7ca-4842-b365-0857d91a70c1.JPG">]]></description>
-            <link>https://thegrid.ai/aquanetviet/e9a67d02-8f78-4fb5-8870-a799ae51db99/index.html</link>
-            <guid isPermaLink="false">e9a67d02-8f78-4fb5-8870-a799ae51db99</guid>
-            <pubDate>Sat, 16 Jan 2016 07:01:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
