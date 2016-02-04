@@ -1,41 +1,41 @@
-name: aquanetviet
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
 title: Mạng Thủy sản Việt Nam
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.3837345
+  brandStrength: 0.702509
+  rhythmicContrast: 0.6057348
   brandColors:
     - '#4f9dff'
     - '#27006b'
     - '#232323'
     - '#ffffff'
     - '#b6dcff'
-  brandStrength: 0.702509
   lightness: 0.7821058
-  saturation: 0.3837345
-  rhythmicContrast: 0.6057348
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: aquanetviet
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.3207885
