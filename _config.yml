@@ -2,7 +2,7 @@ name: aquanetviet
 favicon: null
 layout_spectrum: 0.00271
 typography_spectrum: 1
-title: Mạng Thủy sản Việt Nam
+title: Vietnam Aquaculture Network
 collections:
   - index:
       path: /
